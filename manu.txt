@@ -1,6 +1,6 @@
 <span id="a">manuela@dorado</span>:<span id="b">~</span><span id="c">$</span> cd Manueladn/<!-- kjsdfhkjdhsfkjdshfkj -->About_Manu
 <span id="a">manuela@dorado</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->manu.txt<br/><br/>
-My favorite quote, "<span id="k">Work smarter, not harder</span>". <!-- sjkfhskjf -->
+December 10th, 2020"<span id="k">Dear diary:</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Manuela Dorado.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing my Bachelor's in Neuroscience and a minor in Computational Neuroscience from the University of Washington in Seattle (UW).</p>
 <p>I am highly interested in bridging the gap between computer science and Neuroscience. I believe that by understanding the human brain, we will be able to build better artificial intelligence, and this is where I see Neuroscience and technology coming together. Information processing done by the brain, if understood, can be a great tool in building artificial intelligence that is more intuitive and efficient. In other words, Neuroscience has the potential to be a great source of inspiration for entire new sets of lines of knowledge and algorithms. Actually, by understanding the brain we could begin to validate current artificial intelligence methods as well as guide us towards where resources should be invested more efficiently. I also love playing tennis, reading and cats!</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
