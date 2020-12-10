@@ -2,8 +2,8 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:3,
-	file:"", 
+	speed:4,
+	file:"manu.txt", 
 	accessCount:0,
 	deniedCount:0, 
 	init: function(){
